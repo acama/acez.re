@@ -1,4 +1,4 @@
-## Jul 06 2017 - Fish
+## Oct 04 2016 - Fish
 Overview
 =========
 First of all, we would like to thank [@gyno\_lbs](https://twitter.com/gyno_lbs). He asked us to make a writeup about this challenge in exchange for two free Binary Ninja licenses. As a result, most of the analyses in this writeup were re-done using Binary Ninja. Thanks to the insane reversing skills of my teammate **fish**, we were able to find a number of vulnerabilities in the this challenge (most of this writeup is written by him).
